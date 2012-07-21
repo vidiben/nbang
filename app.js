@@ -27,6 +27,11 @@ app.configure('production', function(){
   app.use(express.errorHandler());
 });
 
+
+function _t(i){
+	return 'ok';
+}
+
 // Routes
 
 app.get('/', routes.index);

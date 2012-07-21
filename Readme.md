@@ -1,17 +1,18 @@
-JPublish
-========
+>n!
+>==
+***
 
 Overview
-========
-JPublish is an Open Source Content Maganement System. Its concepts are by large parts inspired by eZ Publish but the implementation takes a radical different way.
-JPublish is based on node.js, express and mongodb. Its cache system relies almost entirely on Varnish.
+--------
+NBang is an Open Source Content Maganement System. Its concepts are by large parts inspired by eZ Publish but the implementation takes a radical different way.
+NBang is based on node.js, express and mongodb. Its cache system relies almost entirely on Varnish.
 
 Its development has not really started yet.
 
 
 
 Licence
-=======
+-------
  Copyright © 2012 Benoît Vidis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
